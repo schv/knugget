@@ -1,1 +1,68 @@
-{"title":"More than 1,000 international students in the US have had visas revoked amid immigration crackdown","author":"CNN","publisher":"CNN","date":"2023-04-27","facts":[{"content":"More than 1,000 international students and recent graduates in the US have had their visas or statuses revoked in 2023.","source":"university statements and spokespeople"},{"content":"These revocations occurred at more than 130 schools across 40 states.","source":"university statements and spokespeople"},{"content":"At Middle Tennessee State University, six students had their visas revoked, confirmed by university spokesperson Jimmy Hart.","source":"Jimmy Hart, university spokesperson"},{"content":"The University of Oregon reported four students’ visa statuses were revoked due to unspecified criminal charges.","source":"Eric Howald, university spokesperson"},{"content":"The University of California, Los Angeles, stated that 12 students were impacted by visa terminations, all due to violations of visa program terms.","source":"Julio Frenk, UCLA chancellor"},{"content":"A federal lawsuit against the Trump administration includes 133 foreign nationals, representing students from India, China, Colombia, Mexico, and Japan.","source":"lawsuit complaint and Dustin Baxter"},{"content":"The lawsuit alleges ICE unlawfully terminated students’ legal status, removing them from the Student and Exchange Visitor Information System (SEVIS).","source":"lawsuit complaint"},{"content":"In late March, Marco Rubio said that more than 300 visas, mainly student and visitor visas, had been revoked.","source":"Marco Rubio"},{"content":"Palestinian activist Mahmoud Khalil, a Columbia graduate and legal US resident, is involved in a high-profile deportation case.","source":"CNN report"}],"judgements":[{"content":"The article suggests that many universities do not know the specific reasons for visa revocations and that the government did not always communicate these reasons clearly.","source":"implied"},{"content":"The article implies the revocations are part of a broader immigration crackdown under the Trump administration.","source":"implied"},{"content":"It implies concern about potential student deportations and the impact on their education.","source":"implied"},{"content":"The article indicates a legal challenge is underway to halt these revocations.","source":"implied"}],"quotes":[{"content":"The University does not know the specific reason(s) for the visa status changes, only that they were changed within the federal database that monitors them.","source":"Jimmy Hart, Middle Tennessee State University"},{"content":"The US Department of Homeland Security has revoked the visa status of four international students at the UO based on unspecified criminal charges.","source":"Eric Howald, University of Oregon"},{"content":"The termination notices indicate that all terminations were due to violations of the terms of the individuals’ visa programs.","source":"Julio Frenk, UCLA"},{"content":"They’re here to go to class. They’re not here to lead activist movements that are disruptive and undermine our universities.","source":"Marco Rubio"},{"content":"Stripping them of their ability to pursue their studies and maintain employment in the United States and risking their arrest, detention, and deportation.","source":"Lawsuit complaint (unnamed)"}]}
+{
+  "title": "Trump Administration Revokes Over 1,000 Student Visas in Immigration Crackdown",
+  "author": "Caroll Alvarado, Javon Huynh, Amanda Musa",
+  "publisher": "CNN",
+  "date": "2023-10-02",
+  "facts": [
+    {
+      "content": "More than 1,000 international students and recent graduates in the US have had their visas revoked or statuses terminated this year.",
+      "source": "University statements and spokespeople"
+    },
+    {
+      "content": "Colleges and universities in 40 states have confirmed visa and status termination of their students.",
+      "source": "Colleges and universities"
+    },
+    {
+      "content": "At Middle Tennessee State University, six students had their visas revoked.",
+      "source": "Jimmy Hart, university spokesperson"
+    },
+    {
+      "content": "The University of Oregon reported that four international students had their visa status revoked based on unspecified criminal charges.",
+      "source": "Eric Howald, university spokesperson"
+    },
+    {
+      "content": "A new federal lawsuit against the Trump administration seeks to stop student visa revocations and reinstate those that have already been revoked.",
+      "source": "Dustin Baxter, attorney"
+    },
+    {
+      "content": "In late March, Secretary of State Marco Rubio stated that more than 300 visas, primarily student visas, had been revoked.",
+      "source": "Marco Rubio"
+    }
+  ],
+  "judgements": [
+    {
+      "content": "The visa revocations represent a stunning blow to international scholars.",
+      "source": "Article author"
+    },
+    {
+      "content": "The lack of communication from the government is criticized as few universities know why the visas are revoked.",
+      "source": "Article author"
+    },
+    {
+      "content": "The consequences of the visa terminations risk stripping students of their ability to pursue their studies.",
+      "source": "Article author"
+    }
+  ],
+  "quotes": [
+    {
+      "content": "The University does not know the specific reason(s) for the visa status changes, only that they were changed within the federal database that monitors them.",
+      "source": "Jimmy Hart, spokesperson for Middle Tennessee State University"
+    },
+    {
+      "content": "In the last few weeks, the US Department of Homeland Security has revoked the visa status of four international students at the UO based on unspecified criminal charges.",
+      "source": "Eric Howald, spokesperson for the University of Oregon"
+    },
+    {
+      "content": "They’re here to go to class. They’re not here to lead activist movements that are disruptive and undermine our universities.",
+      "source": "Marco Rubio, Secretary of State"
+    },
+    {
+      "content": "The termination notices indicate that all terminations were due to violations of the terms of the individuals’ visa programs.",
+      "source": "Julio Frenk, chancellor of the University of California, Los Angeles"
+    },
+    {
+      "content": "The complaint alleges that ICE has abruptly and unlawfully terminated the students’ legal status in the United States ‘(…) stripping them of their ability to pursue their studies and maintain employment in the United States and risking their arrest, detention, and deportation.’",
+      "source": "Federal lawsuit complaint"
+    }
+  ]
+}

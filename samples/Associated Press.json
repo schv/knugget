@@ -1,1 +1,80 @@
-{"title":"Visa cancellations sow panic for international students, with hundreds fearing deportation","author":"Alice Masquelier-Page","publisher":"Associated Press","date":"2024-04-XX","facts":[{"content":"At least 790 students at more than 120 colleges and universities have had their visas revoked or their legal status terminated in recent weeks.","source":"AP review of university statements and correspondence from officials"},{"content":"Approximately 1.1 million international students were in the United States last year.","source":"Unspecified data, likely from official U.S. sources or education statistics"},{"content":"As many as 1,300 students have lost visas or had their status terminated, according to reports from colleges collected by NAFSA.","source":"Fanta Aw, CEO of NAFSA"},{"content":"Around 242,000 foreigners in the U.S. are employed through optional practical training.","source":"Unspecified, likely from U.S. immigration data"},{"content":"About 500,000 students are pursuing graduate degrees, and another 342,000 are undergraduate students.","source":"Unspecified, based on U.S. education data"},{"content":"Four students from two Michigan universities are suing Trump administration officials over their visa terminations.","source":"Legal filings and statements from student attorneys"},{"content":"A federal judge in New Hampshire granted a temporary restraining order to restore the status of a Ph.D. student at Dartmouth College; a similar order was issued in Wisconsin for a University of Wisconsin-Madison student.","source":"Judicial rulings"},{"content":"A Georgia Tech Ph.D. student, supposed to graduate on May 5, is suing over his visa termination.","source":"Attorney Charles Kuck"}],"judgements":[{"content":"The federal government's efforts to terminate international students' legal status have caused widespread fear and are described as 'stunning' and concerning.","source":"AP analysis and student/advocacy groups"},{"content":"Many students and lawyers argue they were targeted over minor infractions or for unclear reasons, raising concerns about due process.","source":"Legal experts and affected students"},{"content":"Some officials describe the situation as lacking clarity and transparency, indicating a negative assessment of the enforcement actions.","source":"Fanta Aw, CEO of NAFSA"}],"quotes":[{"content":"It seems now like it's coming pretty fast and furious.","source":"Matthew Maiona, immigration attorney"},{"content":"We don’t know, and that’s the scary part.","source":"Ramis Wadood, attorney with the American Civil Liberties Union"},{"content":"You don’t need more than a small number to create fear.","source":"Fanta Aw, CEO of NAFSA"},{"content":"There’s no clarity of what are the reasons and how far the reach of this is.","source":"Fanta Aw"},{"content":"We have case after case after case exactly like that, where there is no underlying crime.","source":"Charles Kuck, attorney representing students"},{"content":"These are kids who now, under the Trump administration, realize their position is fragile.","source":"Charles Kuck"},{"content":"That is the most scary part because you don’t know whether you’re going to be the next person.","source":"Unnamed Chinese student at UNC Chapel Hill"}]}
+{
+  "title": "Visa cancellations sow panic for international students, with hundreds fearing deportation",
+  "author": "Alice Masquelier-Page",
+  "publisher": "Associated Press",
+  "date": "2023-xx-xx",
+  "facts": [
+    {
+      "content": "The bar association for immigration attorneys began receiving inquiries from international students studying in the U.S. about their legal status being terminated in early April.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "Hundreds of international students have reported losing their legal status and sought advice.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "At least 790 students at more than 120 colleges and universities have had their visas revoked or legal status terminated in recent weeks.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "1.1 million international students were in the United States last year, providing essential revenue for tuition-driven colleges.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "Many of the students losing their legal status are from India and China.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "Four students from two Michigan universities filed a lawsuit against Trump administration officials after their F-1 status was terminated.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "A federal judge in New Hampshire granted a temporary restraining order to restore the status of a Ph.D. student at Dartmouth College.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "A federal judge in Wisconsin issued a similar order regarding a University of Wisconsin-Madison graduate student.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "The system to track enrollment of international students came under the control of Immigration and Customs Enforcement after 9/11.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "Approximately 242,000 foreigners in the U.S. are employed through 'optional practical training.'",
+      "source": "Associated Press"
+    }
+  ],
+  "judgements": [
+    {
+      "content": "The speed and scope of the federal government’s efforts to terminate the legal status of international students have stunned colleges across the country.",
+      "source": "Associated Press"
+    },
+    {
+      "content": "You don’t need more than a small number to create fear.",
+      "source": "Fanta Aw, CEO of NAFSA"
+    },
+    {
+      "content": "These are kids who now, under the Trump administration, realize their position is fragile. They’ve preyed on a very vulnerable population.",
+      "source": "Charles Kuck, attorney representing students"
+    },
+    {
+      "content": "That is the most scary part because you don’t know whether you’re going to be the next person.",
+      "source": "Anonymous Ph.D. student"
+    }
+  ],
+  "quotes": [
+    {
+      "content": "We thought it was going to be something that was unusual. But it seems now like it’s coming pretty fast and furious.",
+      "source": "Matthew Maiona, immigration attorney"
+    },
+    {
+      "content": "We don’t know, and that’s the scary part.",
+      "source": "Ramis Wadood, attorney with the American Civil Liberties Union"
+    },
+    {
+      "content": "We have case after case after case exactly like that, where there is no underlying crime.",
+      "source": "Charles Kuck, attorney representing students"
+    }
+  ]
+}
