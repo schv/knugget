@@ -1,0 +1,29 @@
+Assistant(content=The three articles present information regarding visa revocations and legal actions taken by international students in the United States, but they differ in emphasis, detail, and framing.
+
+**Fact Statements:**
+
+- All three articles agree that numerous international students have had their visas revoked or their legal statuses terminated within recent periods, citing figures such as over 790 students (AP, 2024), more than 1,000 (CNN, 2023), and specific cases at universities (CNN, 2023; Fox News, 2024).  
+- Multiple articles detail instances of legal challenges and lawsuits against the Trump administration's actions, with specific cases like Mahmoud Khalil and others (AP, 2024; CNN, 2023; Fox News, 2024).  
+- The use of specific legal statutes (notably a 1952 law) as justification by the government is mentioned in the Fox News article (2024), whereas other articles reference general lack of transparency and unclear reasons for revocations (AP, 2024; CNN, 2023).  
+- The figures on students' employment through optional practical training and the overall number of international students are acknowledged in the AP article but less emphasized elsewhere.
+
+**Value Judgements:**
+
+- The AP article characterizes the government's efforts as "stunning" and "concerning," indicating a negative judgment on the actions.  
+- CNN presents an analysis implying skepticism about the transparency of the revocations and suggests they are part of a broader immigration crackdown under the Trump administration. It also hints at concern regarding student deportations and educational impacts.  
+- Fox News adopts a more supportive stance toward the government's actions, emphasizing that the government "reserves the right" to cancel visas and framing students' lack of due process as within legal bounds. It also mentions that visa cancellations could be based on infractions or organizational involvement, implying a policy justification.
+
+**Quotes:**
+
+- The AP article features quotes from attorneys and advocacy groups displaying concern, confusion, and highlighting the lack of clarity about reasons behind visa revocations (e.g., statements from Ramis Wadood, Fanta Aw, Charles Kuck).  
+- CNN includes quotes from university officials and lawmakers emphasizing that visa statuses are revoked based on violations or criminal charges, but often without specific reasons disclosed to students (e.g., Jimmy Hart, Eric Howald, Julio Frenk). The tone is investigative, with concern for students' stability.  
+- The Fox News article primarily quotes Secretary of State Marco Rubio, who explicitly states the government’s legal right to cancel visas and dismisses notions of inherent rights to student visas, framing the revocations as lawful and justified.
+
+**Differences:**
+
+- The AP and CNN articles highlight students' struggles, ongoing lawsuits, and concerns over due process, transparency, and overreach, often framing the situation as problematic or concerning.  
+- The Fox News article is more aligned with the government’s perspective, emphasizing legal rights, statutory support, and framing the revocations as lawful, often downplaying or dismissing concerns about unfair treatment or lack of transparency.
+
+**Summary:**
+
+While all articles confirm that many international students have faced visa revocations and legal challenges, the tone and framing differ markedly. The AP and CNN articles lean toward highlighting the problematic aspects and uncertainties of these actions, emphasizing potential misuse and emotional impacts. Conversely, Fox News presents the actions as legitimate, lawful, and within the government's rights, citing legal justifications and supporting statements from officials., finishReason=stop)
