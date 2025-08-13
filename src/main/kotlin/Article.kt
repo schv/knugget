@@ -12,37 +12,21 @@ data class Article(
     val author: String,
     @property:LLMDescription("Article publisher")
     val publisher: String,
-    @property:LLMDescription("Date of the article publication in format YYYY-MM-DD")
+    @property:LLMDescription("Date of the article publication in format YYYY-MM-DD:HH-MM")
     val date: String,
-    @property:LLMDescription("Facts that took place in the world")
-    val facts: List<FactReference>,
-    @property:LLMDescription("Value judgements by the article's author")
-    val judgements: List<ValueJudgement>,
-    @property:LLMDescription("Direct citations of some other person or organization")
-    val quotes: List<Quote>,
+    @property:LLMDescription("Propositions presented in the article")
+    val facts: List<Proposition>,
 ) {
     @Serializable
-    data class FactReference(
-        @property:LLMDescription("Description of a certain fact")
+    data class Proposition(
+        @property:LLMDescription("Come up with an id for this proposition")
+        val id: String,
+        @property:LLMDescription("The very essence of the proposition")
         val content: String,
         @property:LLMDescription("Source of information")
-        val source: String
-    )
-
-    @Serializable
-    data class ValueJudgement(
-        @property:LLMDescription("Specific value judgment by the author of the article")
-        val content: String,
-        @property:LLMDescription("Source of information")
-        val source: String
-    )
-
-    @Serializable
-    data class Quote(
-        @property:LLMDescription("Specific quote")
-        val content: String,
-        @property:LLMDescription("Source of citation")
-        val source: String
+        val source: String,
+        @property:LLMDescription("How this proposition specified by id relates to other propositions in the article")
+        val relations: Map<String, String>? = null,
     )
 }
 
@@ -53,47 +37,47 @@ val articleExamples = listOf(
         publisher = "Панорама",
         date = "2025-05-06",
         facts = listOf(
-            Article.FactReference(
+            Article.Proposition(
+                id = "P00001",
                 content = "В США проводился секретный проект Москитная демократия.",
                 source = "Анонимный источник в ЦРУ США"
             ),
-            Article.FactReference(
+            Article.Proposition(
+                id = "P00002",
                 content = "Цель проекта Москитная демократия - создать биологическое оружия, способное избирательно поражать граждан России, оставляя в неприкосновенности подданных других государств.",
                 source = "Анонимный источник в ЦРУ США"
             ),
-            Article.FactReference(
+            Article.Proposition(
+                id = "P00003",
                 content = "Реализация проекта Москитная демократия осуществлялась через созданию генетически модифицированных комаров, запрограммированных на уничтожение исключительно граждан Российской Федерации.",
                 source = "Анонимный источник в ЦРУ США"
             ),
-            Article.FactReference(
+            Article.Proposition(
+                id = "P00004",
                 content = "В ходе полевых испытаний генетически модифицированных комаров выяснилось, что они неспособны отличать русских от украинцев, белорусов и даже некоторых финнов.",
                 source = "Анонимный источник в ЦРУ США"
             ),
-            Article.FactReference(
+            Article.Proposition(
+                id = "P00005",
                 content = "Программа Москитная демократия была окончательно свёрнута после того, как комар укусил посла Израиля в США Давида Соломоновича Бернштейна.",
                 source = "Анонимный источник в ЦРУ США"
             ),
-            Article.FactReference(
-                content = "Причина неудачи проекта Москитная демократия в «генетической близостью» целевых групп",
+            Article.Proposition(
+                id = "P00006",
+                content = "Причина неудачи проекта Москитная демократия в «генетической близости» целевых групп",
                 source = "Эксперты энтомологи"
             ),
-            Article.FactReference(
+            Article.Proposition(
+                id = "P00007",
                 content = "Проект Москитная демократия был заморожен",
                 source = "Анонимный источник в ЦРУ США"
             ),
-            Article.FactReference(
+            Article.Proposition(
+                id = "P00008",
                 content = "Генетически модифицированные комары были выпущены на волю в штате Флорида, США",
                 source = "Анонимный источник в ЦРУ США"
             ),
-
-            ),
-        judgements = listOf(),
-        quotes = listOf(
-            Article.Quote(
-                content = "Видимо, для комара все славяне на одно лицо",
-                source = "Иван Ким, профессор энтомологии"
-            )
-        )
+        ),
     ),
 )
 
@@ -119,8 +103,7 @@ val apArticleVisas = """
     ASSOCIATED PRESS
     
     Visa cancellations sow panic for international students, with hundreds fearing deportation
-    WASHINGTON (AP) — At first, the bar association for immigration attorneys began receiving inquiries from a couple students a day. These were foreigners
-
+    
     By Alice Masquelier-Page
 
     WASHINGTON (AP) — At first, the bar association for immigration attorneys began receiving inquiries from a couple students a day. These were foreigners studying in the U.S., and they’d discovered in early April their legal status had been terminated with little notice. To their knowledge, none of the students had committed a deportable offense.
@@ -222,10 +205,7 @@ val foxArticleVisas = """
 
     International students have been allowed to maintain their legal residency status and continue their studies even after having their visas revoked, according to the AP. In those cases, the lack of a visa only impacted their ability to travel in and out of the U.S. According to the AP, losing legal residency status is what ultimately puts students at risk of being deported.
 
-    Student protesters gather in protest inside their encampment on the Columbia University campus
     Student protesters gather in protest inside their encampment on the Columbia University campus on Monday, April 29, 2024 in New York City. (AP Photo/Stefan Jeremiah)
-
-    CLICK HERE TO GET THE FOX NEWS APP
 
     Trump administration officials have defended the revocation of student visas, stating that the government reserves the right to cancel them.
 

@@ -15,9 +15,10 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
-    implementation("ai.koog:koog-agents:0.1.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
-    implementation("org.slf4j:slf4j-simple:2.0.12")
+    implementation("ai.koog:koog-agents:0.3.0")
+    implementation("ai.jetbrains.code.prompt:code-prompt-executor-grazie-koog-jvm:1.0.0-beta.105-feat-829-1")
+    implementation("ai.jetbrains.code.prompt:code-prompt-llm-jvm:1.0.0-beta.105-feat-829-1")
+    implementation("org.slf4j:slf4j-simple:2.0.17")
 
 }
 

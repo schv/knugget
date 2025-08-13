@@ -2,79 +2,82 @@
   "title": "International students sue over Trump admin revoking visas",
   "author": "Rachel Wolf",
   "publisher": "FOX NEWS",
-  "date": "2023-10-02",
+  "date": "2024-05-03:12-00",
   "facts": [
     {
-      "content": "International students whose visas have been revoked are suing the Trump administration over an alleged violation of due process.",
-      "source": "Rachel Wolf"
-    },
-    {
-      "content": "The Associated Press reported that the students are arguing that the Trump administration lacked justification when canceling visas.",
+      "id": "P00001",
+      "content": "International students are suing the Trump administration over visa revocations",
       "source": "Associated Press"
     },
     {
-      "content": "Several international students have had their visas revoked for reasons related to their activism, including pro-Palestinian activism being argued as support for Hamas.",
-      "source": "Rachel Wolf"
+      "id": "P00002",
+      "content": "Students argue the Trump administration lacked justification for canceling visas",
+      "source": "Associated Press"
     },
     {
-      "content": "Some international students reportedly had their visas revoked for past infractions such as traffic violations.",
-      "source": "Rachel Wolf"
+      "id": "P00003",
+      "content": "President Trump has pursued a crackdown on immigration",
+      "source": "FOX NEWS"
     },
     {
-      "content": "Students in at least 30 states have had their visas revoked.",
+      "id": "P00004",
+      "content": "Some international students have had visas revoked for pro-Palestinian activism",
       "source": "NBC News"
     },
     {
-      "content": "The government is using a foreign policy statute from 1952 to justify the visa cancellations.",
+      "id": "P00005",
+      "content": "Some international students have had visas revoked for past infractions like traffic violations",
+      "source": "Associated Press"
+    },
+    {
+      "id": "P00006",
+      "content": "Students in at least 30 states have had their visas revoked",
       "source": "NBC News"
     },
     {
-      "content": "A judge ruled that Mahmoud Khalil, a Columbia University student, could be deported, stating that the government met the burden of proof.",
-      "source": "Rachel Wolf"
+      "id": "P00007",
+      "content": "The government is using a 1952 foreign policy statute to justify visa cancelations",
+      "source": "NBC News"
     },
     {
-      "content": "The Department of Homeland Security (DHS) provided reasons for Khalil's visa revocation, including not being forthcoming about his involvement with certain organizations.",
-      "source": "Rachel Wolf"
+      "id": "P00008",
+      "content": "Mahmoud Khalil is a Columbia University student involved in anti-Israel activity",
+      "source": "FOX NEWS"
     },
     {
-      "content": "International students looking to study in the U.S. must meet specific requirements to obtain the appropriate visa.",
+      "id": "P00009",
+      "content": "A judge ruled the government met the burden of proof to deport Khalil",
+      "source": "FOX NEWS"
+    },
+    {
+      "id": "P00010",
+      "content": "DHS attorneys said Khalil was not forthcoming about his organizational involvements",
+      "source": "FOX NEWS"
+    },
+    {
+      "id": "P00011",
+      "content": "International students must meet specific requirements to obtain a U.S. student visa",
       "source": "State Department"
     },
     {
-      "content": "The DHS lists several circumstances under which the government may revoke a student visa, including absence from the U.S. for five months or longer, expulsion, unauthorized employment, and failure to enroll.",
+      "id": "P00012",
+      "content": "DHS can revoke student visas for reasons like extended absence, expulsion, unauthorized employment, and failure to enroll",
       "source": "Department of Homeland Security"
     },
     {
-      "content": "International students may maintain their legal residency status and continue their studies even after having their visas revoked.",
+      "id": "P00013",
+      "content": "Students can sometimes maintain legal residency status after visa revocation",
       "source": "Associated Press"
     },
     {
-      "content": "Losing legal residency status ultimately puts students at risk of being deported.",
+      "id": "P00014",
+      "content": "Losing legal residency status puts students at risk of deportation",
       "source": "Associated Press"
     },
     {
-      "content": "Trump administration officials have defended the revocation of student visas.",
-      "source": "Rachel Wolf"
-    },
-    {
-      "content": "Secretary of State Marco Rubio stated that the government can cancel a student visa under the law.",
-      "source": "Rachel Wolf"
-    }
-  ],
-  "judgements": [
-    {
-      "content": "Several international students have been caught in the crosshairs as the administration argues their pro-Palestinian activism constitutes support for Hamas.",
-      "source": "Rachel Wolf"
-    },
-    {
-      "content": "The characterization of the visa revocations as a 'crackdown on immigration' implies a negative evaluation of the Trump administration's immigration policies.",
-      "source": "Rachel Wolf"
-    }
-  ],
-  "quotes": [
-    {
-      "content": "There is no right to a student visa. We can cancel a student visa under the law just the same way that we can deny a student visa under the law. And we will do so in cases we find appropriate.",
-      "source": "Secretary of State Marco Rubio"
+      "id": "P00015",
+      "content": "Secretary of State Marco Rubio stated the government can cancel student visas under law",
+      "source": "FOX NEWS"
     }
   ]
 }
